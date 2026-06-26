@@ -18,8 +18,8 @@ def get_requirments(file_path: str) -> List[str]:
 setup(
     name= "Fault detection",
     version= '0.0.1',
-    author= 'Pwskills',
-    author_email= 'es.@pw.live',
+    author= 'Eshant Singh',
+    author_email= 'eshant@live.com',
     install_requires= get_requirments('requirments.txt'),
     packages= find_packages() 
 )
